@@ -1,0 +1,12 @@
+E:\work\net\lib\lib\bin\Debug\netcoreapp2.2\lib.exe
+E:\work\net\lib\lib\bin\Debug\netcoreapp2.2\lib.deps.json
+E:\work\net\lib\lib\bin\Debug\netcoreapp2.2\lib.runtimeconfig.json
+E:\work\net\lib\lib\bin\Debug\netcoreapp2.2\lib.runtimeconfig.dev.json
+E:\work\net\lib\lib\bin\Debug\netcoreapp2.2\lib.dll
+E:\work\net\lib\lib\bin\Debug\netcoreapp2.2\lib.pdb
+E:\work\net\lib\lib\obj\Debug\netcoreapp2.2\lib.csproj.CoreCompileInputs.cache
+E:\work\net\lib\lib\obj\Debug\netcoreapp2.2\lib.AssemblyInfoInputs.cache
+E:\work\net\lib\lib\obj\Debug\netcoreapp2.2\lib.AssemblyInfo.cs
+E:\work\net\lib\lib\obj\Debug\netcoreapp2.2\lib.dll
+E:\work\net\lib\lib\obj\Debug\netcoreapp2.2\lib.pdb
+E:\work\net\lib\lib\obj\Debug\netcoreapp2.2\Lib.csprojAssemblyReference.cache

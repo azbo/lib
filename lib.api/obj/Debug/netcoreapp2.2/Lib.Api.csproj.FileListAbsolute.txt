@@ -1,0 +1,9 @@
+E:\work\net\lib\lib.api\bin\Debug\netcoreapp2.2\lib.api.deps.json
+E:\work\net\lib\lib.api\bin\Debug\netcoreapp2.2\lib.api.dll
+E:\work\net\lib\lib.api\bin\Debug\netcoreapp2.2\lib.api.pdb
+E:\work\net\lib\lib.api\obj\Debug\netcoreapp2.2\lib.api.csproj.CoreCompileInputs.cache
+E:\work\net\lib\lib.api\obj\Debug\netcoreapp2.2\lib.api.AssemblyInfoInputs.cache
+E:\work\net\lib\lib.api\obj\Debug\netcoreapp2.2\lib.api.AssemblyInfo.cs
+E:\work\net\lib\lib.api\obj\Debug\netcoreapp2.2\lib.api.dll
+E:\work\net\lib\lib.api\obj\Debug\netcoreapp2.2\lib.api.pdb
+E:\work\net\lib\lib.api\obj\Debug\netcoreapp2.2\Lib.Api.csprojAssemblyReference.cache
