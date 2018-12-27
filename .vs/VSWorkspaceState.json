@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\lib",
+    "\\lib.api",
+    "\\lib.core"
   ],
+  "SelectedNode": "\\lib.core",
   "PreviewInSolutionExplorer": false
 }

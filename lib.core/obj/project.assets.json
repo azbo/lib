@@ -208,14 +208,14 @@
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
       },
-      "Lib.Api/1.0.0": {
+      "Lib/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.2",
         "compile": {
-          "bin/placeholder/Lib.Api.dll": {}
+          "bin/placeholder/Lib.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Lib.Api.dll": {}
+          "bin/placeholder/Lib.dll": {}
         }
       }
     }
@@ -689,15 +689,15 @@
         "netstandard.library.nuspec"
       ]
     },
-    "Lib.Api/1.0.0": {
+    "Lib/1.0.0": {
       "type": "project",
-      "path": "../lib.api/Lib.Api.csproj",
-      "msbuildProject": "../lib.api/Lib.Api.csproj"
+      "path": "../Lib/Lib.csproj",
+      "msbuildProject": "../Lib/Lib.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.2": [
-      "Lib.Api >= 1.0.0",
+      "Lib >= 1.0.0",
       "Microsoft.NETCore.App >= 2.2.0"
     ]
   },
@@ -708,11 +708,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\work\\net\\lib\\lib.core\\Lib.Core.csproj",
+      "projectUniqueName": "E:\\work\\net\\lib\\Lib.Core\\Lib.Core.csproj",
       "projectName": "Lib.Core",
-      "projectPath": "E:\\work\\net\\lib\\lib.core\\Lib.Core.csproj",
+      "projectPath": "E:\\work\\net\\lib\\Lib.Core\\Lib.Core.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "E:\\work\\net\\lib\\lib.core\\obj\\",
+      "outputPath": "E:\\work\\net\\lib\\Lib.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -732,8 +732,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "E:\\work\\net\\lib\\lib.api\\Lib.Api.csproj": {
-              "projectPath": "E:\\work\\net\\lib\\lib.api\\Lib.Api.csproj"
+            "E:\\work\\net\\lib\\Lib\\Lib.csproj": {
+              "projectPath": "E:\\work\\net\\lib\\Lib\\Lib.csproj"
             }
           }
         }

@@ -1,6 +1,4 @@
-﻿using System.Collections.Generic;
-
-namespace Lib.Api
+﻿namespace Lib
 {
     public class DataParams
     {
